@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.999 32.001">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #605751;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #ec7404;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="icono_buscar" transform="translate(-1208.001 -2323)">
+    <path id="untitled895" class="cls-1" d="M31.707,30.293l-8.838-8.839a13,13,0,1,0-1.414,1.415l8.836,8.837,0,0a1,1,0,1,0,1.414-1.415ZM5.22,20.776a11,11,0,1,1,15.557,0,11,11,0,0,1-15.557,0Z" transform="translate(1208.001 2323)"/>
+    <path id="Path_17" data-name="Path 17" class="cls-2" d="M8657.65,2328.106a9.5,9.5,0,0,1,7,2.815" transform="translate(-7438 1)"/>
+  </g>
+</svg>

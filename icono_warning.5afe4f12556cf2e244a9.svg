@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32.001 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #605751;
+      }
+    </style>
+  </defs>
+  <path id="icono_warning" class="cls-1" d="M17,25a1,1,0,1,1-1-1A1,1,0,0,1,17,25Zm14.866,3.5-15-26a1,1,0,0,0-1.732,0l-15,26A1,1,0,0,0,1,30H31a1,1,0,0,0,.866-1.5ZM2.732,28,16,5,29.268,28H2.731ZM15,13v8a1,1,0,0,0,2,0V13a1,1,0,0,0-2,0Z" transform="translate(0 -2)"/>
+</svg>

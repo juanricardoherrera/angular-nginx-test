@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.792 31.792">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #605751;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <path id="icon_flecha_abajo" class="cls-1" d="M4622.578,583.031h-19.357v-19.6" transform="translate(-3651.251 2872.374) rotate(-45)"/>
+</svg>
